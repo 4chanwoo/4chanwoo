@@ -38,16 +38,16 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4chanwoo/4chanwoo/output/streak.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/4chanwoo/4chanwoo/output/streak.svg?v=3" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/4chanwoo/4chanwoo/output/activity.svg?v=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/4chanwoo/4chanwoo/output/activity.svg?v=3" />
 </p>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4chanwoo/4chanwoo/output/github-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/4chanwoo/4chanwoo/output/github-snake-dark.svg?v=3" alt="contribution snake" />
 </p>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
