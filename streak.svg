@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="contribution streaks">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1B1F3B" stroke="#8E6BD8"/>
+  <line x1="165" y1="28" x2="165" y2="167" stroke="#8E6BD8" stroke-opacity=".6"/>
+  <line x1="330" y1="28" x2="330" y2="167" stroke="#8E6BD8" stroke-opacity=".6"/>
+  
+    <text x="82.5" y="88" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">53</text>
+    <text x="82.5" y="122" text-anchor="middle" fill="#C8A2F0" font-size="14" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Total Contributions</text>
+    <text x="82.5" y="146" text-anchor="middle" fill="#8A86B0" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Oct 26, 2025 - present</text>
+  <circle cx="247.5" cy="78" r="40" fill="none" stroke="#E0245E" stroke-width="5"/>
+  <text x="247.5" y="88" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">0</text>
+  <text x="247.5" y="146" text-anchor="middle" fill="#E0245E" font-size="14" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Current Streak</text>
+  <text x="247.5" y="166" text-anchor="middle" fill="#8A86B0" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">no streak yet</text>
+  
+    <text x="412.5" y="88" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">1</text>
+    <text x="412.5" y="122" text-anchor="middle" fill="#C8A2F0" font-size="14" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Longest Streak</text>
+    <text x="412.5" y="146" text-anchor="middle" fill="#8A86B0" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Jan 6 - Jan 6</text>
+</svg>
